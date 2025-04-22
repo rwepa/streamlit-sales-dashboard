@@ -5,3 +5,5 @@
 + ## Code: https://github.com/rwepa/streamlit_sales_dashboard
 
 + ## Deploy: https://share.streamlit.io/
+
++ ## PDF: https://github.com/rwepa/streamlit-sales-dashboard/blob/main/st_sales_dashboard.pdf
